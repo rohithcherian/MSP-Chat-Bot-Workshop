@@ -1,0 +1,23 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohithcherian/MicrosoftWorkshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohithcherian/MicrosoftWorkshop/issues"
+  },
+  "homepage": "https://github.com/rohithcherian/MicrosoftWorkshop#readme",
+  "dependencies": {
+    "botbuilder": "^3.11.0",
+    "restify": "^6.3.1"
+  }
+}
