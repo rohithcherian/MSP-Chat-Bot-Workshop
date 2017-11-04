@@ -3,7 +3,7 @@ var builder = require('botbuilder');
 var datetime = new Date();
 var https = require("https");
 var forecast = require('./forecast.js')
-var builder_cognitiveservices = require("botbuilder-cognitiveservices");
+//var builder_cognitiveservices = require("botbuilder-cognitiveservices");
 
 
 
